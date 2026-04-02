@@ -1,6 +1,6 @@
 # Guacomole
 ## Ingredients
 * avocado
-* lime
+* cilantro
 * salt
 ## Instructions
